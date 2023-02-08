@@ -33,8 +33,13 @@ Para usar la api localmente deberás acceder con los siguiente endpoints:
 
 Para usar la api de prueba podras usarlas en:
 
-* https://panicky-windbreaker-moth.cyclic.app/mutation/
-* https://panicky-windbreaker-moth.cyclic.app/stats/
+* https://panicky-windbreaker-moth.cyclic.app/mutation/ --> post
+
+petición para post en json
+
+{ "dna": ["ATGCGA","CAGTAC","TTAAGT","AGAAGG","CCCCTA","TCACTG"] } 
+
+* https://panicky-windbreaker-moth.cyclic.app/stats/ --> get
 
 
 ### Endpoints
