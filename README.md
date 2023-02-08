@@ -41,5 +41,5 @@ Para usar la api de prueba podras usarlas en:
 
 -------------  | JSON body example | Response | Method
 --- | ---  | --- | |
-mutation/ | { "dna": ["ATGCGA","CAGTAC","TTAAGT","AGAAGG","CCCCTA","TCACTG"] } | { "ok": "Mutation"} | POST
-stats/ | | { "count_mutations": 1,"count_no_mutation": 0,"ratio": "1.00"} | GET
+mutation/ | { "dna": ["ATGCGA","CAGTAC","TTAAGT","AGAAGG","CCCCTA","TCACTG"] } | { "ok": "Mutation"} | POST|
+stats/ | | { "count_mutations": 1,"count_no_mutation": 0,"ratio": "1.00"} | GET|
