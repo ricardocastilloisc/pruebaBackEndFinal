@@ -8,7 +8,7 @@
     "start": "node ./app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Ricardo Orlando Castillo Olivera <ricardocastilloisc@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
@@ -16,5 +16,6 @@
     "gh-pages": "^5.0.0",
     "sequelize": "^6.28.0",
     "sqlite3": "^5.1.4"
-  }
+  },
+  "repository": "https://github.com/ricardocastilloisc/pruebaBackEndFinal.git"
 }

@@ -26,3 +26,5 @@ const port =  8010;
 app.listen(port, () => {
   console.log("api rest", port);
 });
+
+module.exports = app;
