@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:pruebaBackEnd}/routes/mutationDB.db",
+            "name": "t",
+            "group": "t"
+        }
+    ]
+}
